@@ -1,0 +1,1 @@
+# Exerc-cio_sistema_perguntas_dicion-rio
